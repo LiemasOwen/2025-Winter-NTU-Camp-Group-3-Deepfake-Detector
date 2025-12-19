@@ -1,6 +1,12 @@
 # Deepfake Detector Project 
 A Python-Based tool that utilizes Convolutional Neural Network to detech deepfaked images and videos.
 
+**Credits**
+- **Nando, Ken (Sivarit)** - Programming the model, researching how to train and make the model, extracting and finding datasets
+- **Owen** - GUI Vibe Coding, AI Prompting for debugging
+- **Su Ya, Carissa, Abra** - No major contributions in the code, but we would like to thank them for making the rest of this project possible!
+
+
 **Features**
 - Detects whether an input is Real or Fake
 - Accuracy of 0.9++ during the 5th (last) epoch
