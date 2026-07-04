@@ -2,7 +2,7 @@
 A Python-Based tool that utilizes Convolutional Neural Network to detech deepfaked images and videos.
 
 **Credits**
-- **Nando, Ken (Sivarit Choosiri)** - Programming the model, researching how to train and make the model, extracting and finding datasets
+- **Nando Natdanai Prayogo (@Nando8298)(https://github.com/Nando8298), Ken (Sivarit Choosiri)** - Programming the model, researching how to train and make the model, extracting and finding datasets
 - **Owen** - GUI Vibe Coding, AI Prompting for debugging
 - **Su Ya, Carissa, Abra** - No major contributions in the code, but we would like to thank them for making the rest of this project possible!
 
